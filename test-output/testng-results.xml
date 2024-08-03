@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-22T07:09:16 PDT" name="Suite" finished-at="2022-10-22T07:09:59 PDT" duration-ms="43345">
+    <groups>
+    </groups>
+    <test started-at="2022-10-22T07:09:16 PDT" name="Test" finished-at="2022-10-22T07:09:59 PDT" duration-ms="43345">
+      <class name="Testcase.testLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:16 PDT" name="setUp" finished-at="2022-10-22T07:09:35 PDT" duration-ms="19350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="openLoginPage()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:35 PDT" name="openLoginPage" finished-at="2022-10-22T07:09:48 PDT" duration-ms="13183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLoginPage -->
+        <test-method signature="testInpatientUserLogin()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:48 PDT" name="testInpatientUserLogin" finished-at="2022-10-22T07:09:52 PDT" duration-ms="3936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInpatientUserLogin -->
+        <test-method is-config="true" signature="backToLoginPage()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:52 PDT" name="backToLoginPage" finished-at="2022-10-22T07:09:53 PDT" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToLoginPage -->
+        <test-method signature="testIsolationUserLogin()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:53 PDT" name="testIsolationUserLogin" finished-at="2022-10-22T07:09:55 PDT" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIsolationUserLogin -->
+        <test-method is-config="true" signature="backToLoginPage()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:55 PDT" name="backToLoginPage" finished-at="2022-10-22T07:09:56 PDT" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToLoginPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcase.testLogin@1ab3a8c8]" started-at="2022-10-22T07:09:56 PDT" name="teardown" finished-at="2022-10-22T07:09:59 PDT" duration-ms="3185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcase.testLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
